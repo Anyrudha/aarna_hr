@@ -1,37 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc></loc>
+		<loc>https://anyrudha.github.io/#/aarna_hr</loc>
 		<lastmod>2022-08-09</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>about-us</loc>
+		<loc>https://anyrudha.github.io/#/aarna_hr/about-us</loc>
 		<lastmod>2022-08-09</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>training</loc>
+		<loc>https://anyrudha.github.io/#/aarna_hr/training</loc>
 		<lastmod>2022-08-09</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>solutions</loc>
+		<loc>https://anyrudha.github.io/#/aarna_hr/solutions</loc>
 		<lastmod>2022-08-09</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>clientele</loc>
+		<loc>https://anyrudha.github.io/#/aarna_hr/clientele</loc>
 		<lastmod>2022-08-09</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>contact-us</loc>
+		<loc>https://anyrudha.github.io/#/aarna_hr/contact-us</loc>
+		<lastmod>2022-08-09</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://anyrudha.github.io/#</loc>
+		<lastmod>2022-08-09</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://anyrudha.github.io/#/about-us</loc>
+		<lastmod>2022-08-09</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://anyrudha.github.io/#/training</loc>
+		<lastmod>2022-08-09</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://anyrudha.github.io/#/solutions</loc>
+		<lastmod>2022-08-09</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://anyrudha.github.io/#/clientele</loc>
+		<lastmod>2022-08-09</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://anyrudha.github.io/#/contact-us</loc>
 		<lastmod>2022-08-09</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
